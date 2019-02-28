@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.5a77c9ca.css",
-  "main.css.map": "static/css/main.5a77c9ca.css.map",
-  "main.js": "static/js/main.52347ceb.js",
-  "main.js.map": "static/js/main.52347ceb.js.map",
+  "main.css": "static/css/main.3ad83b78.css",
+  "main.css.map": "static/css/main.3ad83b78.css.map",
+  "main.js": "static/js/main.bd2976f8.js",
+  "main.js.map": "static/js/main.bd2976f8.js.map",
   "static/media/BeauLuloClean-OneBold.eot": "static/media/BeauLuloClean-OneBold.35d252df.eot",
   "static/media/BeauLuloClean-OneBold.otf": "static/media/BeauLuloClean-OneBold.4ce34c0e.otf",
   "static/media/BeauLuloClean-OneBold.svg": "static/media/BeauLuloClean-OneBold.6b4a34a4.svg",
@@ -17,5 +17,6 @@
   "static/media/icon-back.png": "static/media/icon-back.237f3810.png",
   "static/media/img-social1.png": "static/media/img-social1.4fc4cd98.png",
   "static/media/img-social2.png": "static/media/img-social2.2cc32fbd.png",
-  "static/media/img-social3.png": "static/media/img-social3.49ffe7d5.png"
+  "static/media/img-social3.png": "static/media/img-social3.49ffe7d5.png",
+  "static/media/mask-slide1.png": "static/media/mask-slide1.07e634af.png"
 }
